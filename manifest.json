@@ -1,0 +1,31 @@
+{
+    "name": "Webstudy.com",
+    "short_name": "Webstudy",
+    "start_url": "/",
+    "background_color": "#00fc32",
+    "theme_color": "#00fabc",
+    "display": "standalone",
+    "orientation": "landscape",
+    "icons": [
+        {
+            "src": "dist/img/output-onlinepngtools.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "dist/img/output-onlinepngtools.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "dist/img/output-onlinepngtools.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "dist/img/output-onlinepngtools.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}

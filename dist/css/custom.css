@@ -1,0 +1,22 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+.search-box .suggestion {
+  box-sizing: border-box;
+  position: absolute;
+  top: 48px;
+  background-color: gray;
+  color: white !important;
+  width: 46.5vw;
+  text-align: left;
+  padding-left: 10px;
+  height: auto;
+  z-index: 1000;
+}
+.search-box .suggestion > label {
+  padding: 5px;
+  color: white;
+}
